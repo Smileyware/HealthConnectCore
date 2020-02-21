@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InventoryTrackingSystem.Api</name>
+    </assembly>
+    <members>
+        <member name="M:InventoryTrackingSystem.Api.Controllers.CollectionController.UserId(System.Int32)">
+            <summary>
+            Get Collection by Id
+            </summary>
+            <returns>Collection</returns>
+        </member>
+        <member name="M:InventoryTrackingSystem.Api.Controllers.CollectionController.Name(System.String)">
+            <summary>
+            Get Collection by Id
+            </summary>
+            <returns>Collection</returns>
+        </member>
+        <member name="M:InventoryTrackingSystem.Api.Controllers.CollectionController.Date(System.String)">
+            Get Collection by Id
+             /// 
+            <returns>Collection</returns>
+        </member>
+        <member name="M:InventoryTrackingSystem.Api.Controllers.CollectionController.Get">
+            <summary>
+            Get all AccountIds
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:InventoryTrackingSystem.Api.Controllers.CollectionController.Post(Contracts.Models.CollectionRequest)">
+            <summary>
+            Create a new Collection
+            </summary>
+            <param name="inventory"></param>
+            <returns></returns>
+        </member>
+        <member name="M:InventoryTrackingSystem.Api.Controllers.ItemController.Barcode(System.String)">
+            <summary>
+            Get all AccountIds
+            </summary>
+            <param name="barcode"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

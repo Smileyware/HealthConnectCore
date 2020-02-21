@@ -1,0 +1,12 @@
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\bin\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.deps.json
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\bin\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.dll
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\bin\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.pdb
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\obj\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.csprojAssemblyReference.cache
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\obj\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.csproj.CoreCompileInputs.cache
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\obj\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.AssemblyInfoInputs.cache
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\obj\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.AssemblyInfo.cs
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\obj\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.csproj.CopyComplete
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\obj\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.dll
+C:\Users\miste\source\repos\InventoryTrackingSystem\InventoryTrackingSystem.Accessors\obj\Debug\netcoreapp2.0\InventoryTrackingSystem.Accessors.pdb

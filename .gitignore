@@ -1,0 +1,10 @@
+
+*.ide
+*.lock
+*.ide-shm
+*.ide-wal
+*.dll
+*.pdb
+*.cache
+*.props
+*.targets

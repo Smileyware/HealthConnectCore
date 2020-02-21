@@ -1,0 +1,16 @@
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\bin\Debug\netcoreapp2.0\HealthConnect.Api.deps.json
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\bin\Debug\netcoreapp2.0\HealthConnect.Api.runtimeconfig.json
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\bin\Debug\netcoreapp2.0\HealthConnect.Api.runtimeconfig.dev.json
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\bin\Debug\netcoreapp2.0\HealthConnect.Api.dll
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\bin\Debug\netcoreapp2.0\HealthConnect.Api.pdb
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\bin\Debug\netcoreapp2.0\HealthConnect.Api.xml
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\bin\Debug\netcoreapp2.0\HealthConnect.Accessor.dll
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\bin\Debug\netcoreapp2.0\HealthConnect.Accessor.pdb
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\obj\Debug\netcoreapp2.0\HealthConnect.Api.csprojAssemblyReference.cache
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\obj\Debug\netcoreapp2.0\HealthConnect.Api.csproj.CoreCompileInputs.cache
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\obj\Debug\netcoreapp2.0\HealthConnect.Api.AssemblyInfoInputs.cache
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\obj\Debug\netcoreapp2.0\HealthConnect.Api.AssemblyInfo.cs
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\obj\Debug\netcoreapp2.0\HealthConnect.Api.csproj.CopyComplete
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\obj\Debug\netcoreapp2.0\HealthConnect.Api.dll
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\obj\Debug\netcoreapp2.0\HealthConnect.Api.xml
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Api\obj\Debug\netcoreapp2.0\HealthConnect.Api.pdb
