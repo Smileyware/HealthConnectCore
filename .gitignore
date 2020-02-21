@@ -8,3 +8,5 @@
 *.cache
 *.props
 *.targets
+.vs/HealthConnectSignup/v15/.suo
+HealthConnect.Accessor/obj/Debug/netcoreapp2.0/HealthConnect.Accessor.csproj.FileListAbsolute.txt

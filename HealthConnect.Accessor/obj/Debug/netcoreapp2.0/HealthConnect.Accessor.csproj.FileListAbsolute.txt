@@ -18,3 +18,4 @@ C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Accessor\obj\Debug
 C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Accessor\obj\Debug\netcoreapp2.0\HealthConnect.Accessor.AssemblyInfo.cs
 C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Accessor\obj\Debug\netcoreapp2.0\HealthConnect.Accessor.dll
 C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Accessor\obj\Debug\netcoreapp2.0\HealthConnect.Accessor.pdb
+C:\Users\miste\source\repos\HealthConnectSignup\HealthConnect.Accessor\obj\Debug\netcoreapp2.0\HealthConnect.Accessor.csprojAssemblyReference.cache

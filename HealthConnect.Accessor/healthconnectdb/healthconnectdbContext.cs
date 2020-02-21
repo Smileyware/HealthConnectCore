@@ -38,10 +38,6 @@ namespace HealthConnect.Accessor.healthconnectdb
                     .HasColumnName("id")
                     .HasColumnType("int(11)");
 
-                entity.Property(e => e.Answer1)
-                    .HasColumnName("answer")
-                    .HasColumnType("varchar(45)");
-
                 entity.Property(e => e.CreatedBy)
                     .HasColumnName("createdBy")
                     .HasColumnType("varchar(45)");
@@ -61,6 +57,10 @@ namespace HealthConnect.Accessor.healthconnectdb
                 entity.Property(e => e.QuestionId)
                     .HasColumnName("questionId")
                     .HasColumnType("int(11)");
+
+                entity.Property(e => e.Response)
+                    .HasColumnName("response")
+                    .HasColumnType("varchar(45)");
 
                 entity.Property(e => e.UserId)
                     .HasColumnName("userId")
